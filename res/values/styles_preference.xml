@@ -45,4 +45,7 @@
 
     <style name="SettingsListPreference" parent="SettingsPreference"/>
 
+    <style name="PreferenceTheme" parent="@android:style/Theme.DeviceDefault.Settings">
+    </style>
 </resources>
+
